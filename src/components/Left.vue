@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <div>热门推荐</div>
+        <ui>
+            <li>电脑</li>
+            <li>手机</li>
+            <li>电脑</li>
+            <li>电脑</li>
+            <li>电脑</li>
+        </ui>
+    </div>
+</template>
